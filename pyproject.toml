@@ -1,7 +1,7 @@
 [project]
 name = "ec"
 version = "0.1.0"
-description = "Add your description here"
+description = "A simple Python script that reads from stdin and copies the input to the system clipboard "
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
