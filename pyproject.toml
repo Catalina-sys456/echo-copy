@@ -1,5 +1,5 @@
 [project]
-name = "ec"
+name = "echo-copy"
 version = "0.1.1"
 description = "A simple Python script that reads from stdin and copies the input to the system clipboard "
 readme = "README.md"
